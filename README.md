@@ -1,5 +1,6 @@
 # Hackathon-TIVAS
 🛡️ GigShield AI – Parametric Insurance for Gig Workers
+
 🚀 Overview
 
 GigShield AI is an AI-powered parametric insurance platform designed to protect gig delivery workers from income loss caused by external disruptions such as:
